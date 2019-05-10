@@ -1,0 +1,547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="هنر هفتم , آموزشگاه بازیگری هنر هفتم , آموزشگاه سینمایی , آموزشگاه بازیگری , بازیگری کودک , بازیگری نوجوان , honar haftom , seventh art , film school , acting school , seventh art film school, seventhart"  />
+<meta name="description" content="آموزشگاه سینمایی و بازیگری هنر هفتم مخصوص کودک و نوجوان، واقع در سعادت آباد" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Seventh Art Film School for Kids & Teens</title>
+
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+
+
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+
+@font-face {
+    font-family: 'B Mitra';
+    src:url('../fonts/BMITRA.eot?#') format('eot'),    
+          /*url('../fonts/BMITRA.woff') format('woff'),*/
+          url('../fonts/BMITRA.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'B Nazinin';
+    src:url('../fonts/BNAZANIN.eot?#') format('eot'),    
+          /*url('../fonts/BMITRA.woff') format('woff'),*/
+          url('../fonts/BNAZANIN.ttf') format('truetype'); 
+}
+
+body {
+	font: 100%/1.4 Verdana, "B Mitra", "B Nazanin", Arial , Tahoma;
+	background: #42413C;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background-image: url(../other/background.jpg);
+	background-repeat: repeat;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl {
+	padding: 0; 
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+	direction: rtl;
+}
+a img { 
+	border: none;
+}
+
+.text-header {
+	font-family: "B Mitra", "B Nazanin", Arial , Tahoma;
+	direction: rtl;
+	font-size: 48px;
+}
+.text-body {
+	font-family: "B Mitra", "B Nazanin", Arial , Tahoma;
+	direction: rtl;
+	font-size: 24px;
+	text-align: justify;
+	padding: 5px;
+}
+.text-training-header{
+	font-family: "B Mitra", "B Nazanin", Arial , Tahoma;
+	direction: rtl;
+	font-size: 40px;
+	text-align: center;
+	color: #F00;
+}
+
+.text-training-header2{
+	font-family: "B Mitra", "B Nazanin", Arial, Tahoma;
+	direction: rtl;
+	font-size: 30px;
+	text-align: center;
+	color: #1D04FB;
+}
+.text-training-body{
+	font-family: "B Mitra", "B Nazanin", Arial , Tahoma;
+	direction: rtl;
+	font-size: 20px;
+	text-align: right;
+	color: #000;
+	padding-right: 50px;
+}
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+a:link {
+	color: #00F;
+	text-decoration: underline;
+}
+a:visited {
+	color: #6E6C64;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	text-decoration: none;
+}
+.container {
+	width: 950px;
+	background-color: #FFF;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.header {
+	width: 950px;
+	background-color: #FFF;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 5px;
+	float:left;
+}
+.header-content {
+	float:left;
+}
+
+.sidebar1 {
+	width: 180px;
+	float: left;
+}
+.content {
+	padding: 0px 0;
+	width: 770px;
+	float: right;
+	direction: ltr;
+	font-family:"B Mitra", "B Nazanin", Arial , Tahoma;
+}
+
+.content ul, .content ol {
+	padding-top: 0;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	direction: ltr;
+}
+
+
+ul.nav {
+	list-style: none;
+}
+ul.nav li {
+}
+ul.nav a, ul.nav a:visited {
+	display: block;
+	width: 170px; 
+	text-decoration: none;
+	text-align: center;
+	font-family: "B Mitra", "B Nazanin", Arial , Tahoma;
+	color: #000;
+	background-color: #ffffff;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	background-image: url(../other/sidebar-effect-en.png);
+}
+
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
+	color: #FFF;
+	background-color: #90070F;
+
+
+}
+
+/* ~~ The footer ~~ */
+.footer {
+	background: #CCC49F;
+	clear: both;
+}
+.container .footer-txt {
+	text-align: center;
+}
+
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {
+	float: right;
+	margin-left: 8px;
+	direction: rtl;
+}
+.fltlft {
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+/* Slide Show */
+.slideshow-main { float:left}
+.slideshow-main img { padding: 5px; background-color: #FFF; }
+.slideshow-up { float:left}
+.slideshow-up img { padding: 5px; background-color: #FFF; }
+.slideshow-down { float:left}
+.slideshow-down img { padding: 5px; background-color: #FFF; }
+-->
+
+/* Light Box */
+#lightbox {
+	position:fixed; /* keeps the lightbox window in the current viewport */
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	text-align:center;
+	;
+	background-image: url(../other/lightbox-background.png);
+	background-repeat: repeat;
+}
+#lightbox p {
+    text-align:right;
+    color:#fff;
+    margin-right:20px;
+    font-size:12px;
+    cursor: pointer;
+}
+#lightbox img {
+    box-shadow:0 0 25px #111;
+    -webkit-box-shadow:0 0 25px #111;
+    -moz-box-shadow:0 0 25px #111;
+    max-width:940px;
+    max-height:750px;
+}
+
+/* Back to top button */
+#back-top {
+	position: fixed;
+	bottom: 30px;
+	margin-left: 30px;
+}
+#back-top a {
+	width: 108px;
+	display: block;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #bbb;
+	/* background color transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+	font-family: "B Mitra", "B Nazanin", Tahoma, Arial;
+	font-size: 24px;
+	line-height: 100%;
+}
+#back-top a:hover {
+	color: #000;
+}
+/* arrow icon (span tag) */
+#back-top span {
+	width: 108px;
+	height: 108px;
+	display: block;
+	margin-bottom: 7px;
+	/* rounded corners */
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	/* background color transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+	background-color: #ddd;
+	background-image: url(../other/up-arrow.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#back-top a:hover span {
+	background-color: #777;
+}
+
+</style>
+
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<script type="text/javascript" src="../js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="../jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+
+	$('.lightbox_trigger').click(function(e) {
+
+		//prevent default action (hyperlink)
+		e.preventDefault();
+
+		//Get clicked link href
+		var image_href = $(this).attr("href");
+
+		/* 	
+		If the lightbox window HTML already exists in document, 
+		change the img src to to match the href of whatever link was clicked
+
+		If the lightbox window HTML doesn't exists, create it and insert it.
+		(This will only happen the first time around)
+		*/
+
+		if ($('#lightbox').length > 0) { // #lightbox exists
+
+			//place href as img src value
+			$('#content_lightbox').html('<img src="' + image_href + '" />');
+
+			//show lightbox window - you could use .show('fast') for a transition
+			$('#lightbox').show();
+		}
+
+		else { //#lightbox does not exist - create and insert (runs 1st time only)
+
+			//create HTML markup for lightbox window
+			var lightbox = 
+			'<div id="lightbox">' +
+				'<p>Click to close>/p>' +
+				'<div id="content_lightbox">' + //insert clicked link's href into img src
+					'<img src="' + image_href +'" />' +
+				'</div>' +	
+			'</div>';
+
+			//insert lightbox HTML into page
+			$('body').append(lightbox);
+		}
+
+	});
+
+	//Click anywhere on the page to get rid of lightbox window
+	$('#lightbox').live('click', function() { //must use live, as the lightbox element is inserted into the DOM
+		$('#lightbox').hide();
+	});
+});
+</script>
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('.slideshow-main').cycle({
+		fx: 'fadeout' /* choose your transition type, ex: fade 
+    shuffle
+    fadeout
+    cover
+    uncover
+    toss
+    wipe
+    none
+    zoom
+    fadeZoom
+    curtainX
+    curtainY
+    growY
+    grow	
+    blindZ
+    blindY
+    blindX
+    turnUp
+    turnDown
+    turnLeft
+    turnRight
+    slideX
+    slideY
+    scrollUp
+    scrollDown
+    scrollLeft
+    scrollRight */
+	});
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('.slideshow-down').cycle({
+		fx: 'scrollDown'});
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('.slideshow-up').cycle({
+		fx: 'scrollDown'});
+});
+</script>
+
+
+<script>
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 235) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>
+
+<script type="text/javascript">
+//این تابع زیر برای شرایط احراز نامه نگاری هست
+/*function validateForm()
+{
+    var name=document.forms["feedbackForm"]["name"].value;
+    if (name==null || name=="")
+    {
+        alert("Name cannot be left blank");
+        return false;
+    }
+	
+	var email=document.forms["feedbackForm"]["email"].value;
+    if (email==null || email=="")
+      {
+      alert("Please Enter your email address");
+      return false;
+      }
+     
+    var message=document.forms["feedbackForm"]["message"].value;
+    if (message==null || message=="")
+      {
+      alert("Please Enter a Message");
+      return false;
+      }
+}*/
+</script>
+
+
+</head>
+
+<body>
+
+
+
+
+
+<div class="container">
+
+<div class="header">
+<!-- begin .header -->
+<a href="../en/index.html" class="header-content"><img src="../other/header-en.png" width="750" height="185" alt="Header"/></a>
+
+    <a href="../index.html" class="header-content"><img src="../other/farsi.png" alt="Persian" width="190" height="50" vspace="5" hspace="5" /></a>
+    
+    <a href="https://instagram.com/seventhart.ir" target="_new" class="header-content"><img src="../other/instagram.png" alt="Instagram" width="190" height="125" hspace="5" /></a>
+        
+<!-- end .header -->
+</div>
+  <div class="sidebar1"> 
+  
+<!--	<ul class="nav">
+      <li><a href="../en/index.html">Home</a></li>
+      <li><a href="../en/training_courses.html">Training Courses</a></li>
+      <li><a href="../en/workshops.html">Workshops & Tours</a></li>
+      <li><a href="../en/teachers.html">Teachers</a></li>
+      <li><a href="../en/institute_activities.html">Institute Activities</a></li>
+      <li><a href="../en/students.html">Students Database</a></li>
+      <li><a href="../en/gallery.html">Gallery</a></li>
+      <li><a href="../en/about_us.html">About Us</a></li>
+      <li><a href="../en/contact_us.html">Contact Us</a></li>
+    </ul>-->
+    
+    
+    <ul class="nav">
+      <li><a href="../en/index.html">Home</a></li>
+      <li><a>Training Courses</a></li>
+      <li><a>Workshops & Tours</a></li>
+      <li><a>Teachers</a></li>
+      <li><a>Institute Activities</a></li>
+      <li><a>Students Database</a></li>
+      <li><a href="../en/gallery.html">Gallery</a></li>
+      <li><a>About Us</a></li>
+      <li><a>Contact Us</a></li>
+    </ul>
+
+  </div> 
+  <div class="content"><!-- TemplateBeginEditable name="Edit-content" -->
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+
+
+  <!-- TemplateEndEditable --><!-- end .content --></div>
+  <div class="footer">
+    <p class="footer-txt">   Copyright © 2015 <a href="../en/index.html">www.SeventhArt.ir</a> All rights reserved </p>
+</div>
+
+    
+    <p id="back-top">
+		<a href="#top"><span></span>Back to Top</a>
+	</p>
+  <!-- end .container --></div>
+
+</body>
+</html>
